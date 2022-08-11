@@ -1,4 +1,7 @@
-n = input("1- hello\n\n Choisisez 1 Svp")
-if n == '1':
+print("Hello World")
+Pco = input("1- lolise\n\n pls choose 1")
+if Pco == '1'
 then
 print("lolise")
+else
+print("why")
